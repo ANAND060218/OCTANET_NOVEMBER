@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OCTANET_NOVEMBER/static/css/main.edda366e.css",
+    "main.js": "/OCTANET_NOVEMBER/static/js/main.a49e68bf.js",
+    "static/media/log.jpg": "/OCTANET_NOVEMBER/static/media/log.f44f15c5fc32f9614c35.jpg",
+    "index.html": "/OCTANET_NOVEMBER/index.html",
+    "main.edda366e.css.map": "/OCTANET_NOVEMBER/static/css/main.edda366e.css.map",
+    "main.a49e68bf.js.map": "/OCTANET_NOVEMBER/static/js/main.a49e68bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edda366e.css",
+    "static/js/main.a49e68bf.js"
+  ]
+}
